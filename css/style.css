@@ -1,0 +1,25 @@
+/* Common css */
+.grayRow {
+    background-color: #CCC
+}
+
+#taskWrapper {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#taskWrapper .error{
+    display: none;
+    color: red;
+    font-weight: bold;
+}
+
+.task_data{
+    display: none;
+    text-align: left;
+    border: 1px solid #CCC;
+}
+.task_head {
+    border: 0px;
+}
